@@ -7,4 +7,4 @@ Computer Architecture and System Software: MIPS assembly samples
 Some MIPS Assembly Language code samples.
 
 ## Use
-Use an IDE for MIPS Assembly Language Programming such as [MARS](http://courses.missouristate.edu/KenVollmar/mars/) (MIPS Assembler and Runtime Simulator) to execute the code samples.
+Use an IDE for [MIPS](https://nl.wikipedia.org/wiki/MIPS_(CPU)) Assembly Language Programming such as [MARS](http://courses.missouristate.edu/KenVollmar/mars/) (MIPS Assembler and Runtime Simulator) to execute the code samples.
