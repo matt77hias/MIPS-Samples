@@ -3,7 +3,7 @@
 [s1]: https://img.shields.io/badge/licence-GPL%203.0-blue.svg
 [li]: https://raw.githubusercontent.com/matt77hias/MIPS-Samples/master/LICENSE.txt
 
-# MIPSSamples
+# MIPS-Samples
 Computer Architecture and System Software: MIPS assembly samples
 
 **Academic Year**: 2012-2013 (1st semester - 3th Bachelor of Science in Engineering: Computer Science)
